@@ -1,2 +1,2 @@
-# SQL\
+# SQL
 Jessica's SQL Portfolio
